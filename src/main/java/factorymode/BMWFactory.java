@@ -1,7 +1,7 @@
 package factorymode;
 
 /**
- * @author liuqiangSX5371
+ * @author LiuQiang
  * @date 2024/04/26 星期五 10:26
  * @description 充当具体的工厂角色
  */
